@@ -1,0 +1,32 @@
+D:\Universidad\Verano\FormsINE\FormsINE\bin\Debug\FormsINE.exe.config
+D:\Universidad\Verano\FormsINE\FormsINE\bin\Debug\FormsINE.exe
+D:\Universidad\Verano\FormsINE\FormsINE\bin\Debug\FormsINE.pdb
+D:\Universidad\Verano\FormsINE\FormsINE\obj\Debug\FormsINE.csprojAssemblyReference.cache
+D:\Universidad\Verano\FormsINE\FormsINE\obj\Debug\FormsINE.Form1.resources
+D:\Universidad\Verano\FormsINE\FormsINE\obj\Debug\FormsINE.Properties.Resources.resources
+D:\Universidad\Verano\FormsINE\FormsINE\obj\Debug\FormsINE.csproj.GenerateResource.cache
+D:\Universidad\Verano\FormsINE\FormsINE\obj\Debug\FormsINE.csproj.CoreCompileInputs.cache
+D:\Universidad\Verano\FormsINE\FormsINE\obj\Debug\FormsINE.exe
+D:\Universidad\Verano\FormsINE\FormsINE\obj\Debug\FormsINE.pdb
+D:\Universidad\Verano\FormsINE\FormsINE\bin\Debug\Google.Protobuf.dll
+D:\Universidad\Verano\FormsINE\FormsINE\bin\Debug\MySql.Data.dll
+D:\Universidad\Verano\FormsINE\FormsINE\bin\Debug\MySql.Data.EntityFramework.dll
+D:\Universidad\Verano\FormsINE\FormsINE\bin\Debug\Google.Protobuf.xml
+D:\Universidad\Verano\FormsINE\FormsINE\bin\Debug\MySql.Data.xml
+D:\Universidad\Verano\FormsINE\FormsINE\bin\Debug\MySql.Data.EntityFramework.xml
+D:\Universidad\Verano\FormsINE\FormsINE\obj\Debug\FormsINE.csproj.CopyComplete
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\bin\Debug\FormsINE.exe.config
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\bin\Debug\FormsINE.exe
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\bin\Debug\FormsINE.pdb
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\bin\Debug\Google.Protobuf.dll
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\bin\Debug\MySql.Data.dll
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\bin\Debug\Google.Protobuf.xml
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\bin\Debug\MySql.Data.xml
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\obj\Debug\FormsINE.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\obj\Debug\FormsINE.Form1.resources
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\obj\Debug\FormsINE.Properties.Resources.resources
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\obj\Debug\FormsINE.csproj.GenerateResource.Cache
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\obj\Debug\FormsINE.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\obj\Debug\FormsINE.exe
+C:\Users\Carlos Aviña\Downloads\FormsINE\FormsINE\obj\Debug\FormsINE.pdb
